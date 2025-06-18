@@ -1,0 +1,1394 @@
+[
+  {
+    "result": "You Lost",
+    "score": "138 : 201",
+    "teams": {
+      "Heroes": [
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2470,
+          "Objective Score": 1260,
+          "Offense Score": 810,
+          "Support Score": 400
+        },
+        {
+          "Name": "Bibornoshomoy_",
+          "Score": 2390,
+          "Objective Score": 1220,
+          "Offense Score": 810,
+          "Support Score": 360
+        },
+        {
+          "Name": "invisible_fear",
+          "Score": 2170,
+          "Objective Score": 1140,
+          "Offense Score": 510,
+          "Support Score": 520
+        },
+        {
+          "Name": "numbfeeling",
+          "Score": 2160,
+          "Objective Score": 1200,
+          "Offense Score": 660,
+          "Support Score": 300
+        }
+      ],
+      "Villains": [
+        {
+          "Name": "DuttoBoy",
+          "Score": 4730,
+          "Objective Score": 2430,
+          "Offense Score": 1500,
+          "Support Score": 800
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 3100,
+          "Objective Score": 1810,
+          "Offense Score": 1110,
+          "Support Score": 180
+        },
+        {
+          "Name": "umgone",
+          "Score": 2960,
+          "Objective Score": 1840,
+          "Offense Score": 720,
+          "Support Score": 400
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 2430,
+          "Objective Score": 1380,
+          "Offense Score": 900,
+          "Support Score": 150
+        }
+      ]
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "139 : 201",
+    "teams": {
+      "Friends": [],
+      "Combat": [],
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Villains": [],
+      "Old": [
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 2650,
+          "Objective Score": 12,
+          "Offense Score": 7577,
+          "Support Score": 223
+        }
+      ],
+      "Continue": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "188 : 201",
+    "teams": {
+      "Heroes": [
+        {
+          "Name": "DuttoBoy",
+          "Score": 3545,
+          "Objective Score": 1710,
+          "Offense Score": 1050,
+          "Support Score": 785
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 2840,
+          "Objective Score": 1670,
+          "Offense Score": 1020,
+          "Support Score": 150
+        },
+        {
+          "Name": "Bibornoshomov",
+          "Score": 2410,
+          "Objective Score": 1470,
+          "Offense Score": 360,
+          "Support Score": 580
+        },
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2090,
+          "Objective Score": 1310,
+          "Offense Score": 510,
+          "Support Score": 270
+        },
+        {
+          "Name": 1580,
+          "Score": 930,
+          "Objective Score": 450,
+          "Offense Score": 200,
+          "Support Score": 12465
+        }
+      ],
+      "Villains": [
+        {
+          "Name": "invisible_fear",
+          "Score": 3440,
+          "Objective Score": 1910,
+          "Offense Score": 870,
+          "Support Score": 660
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 2890,
+          "Objective Score": 1950,
+          "Offense Score": 780,
+          "Support Score": 160
+        },
+        {
+          "Name": "Old_Man_Sakil",
+          "Score": 2490,
+          "Objective Score": 1690,
+          "Offense Score": 300,
+          "Support Score": 500
+        },
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 2440,
+          "Objective Score": 1820,
+          "Offense Score": 480,
+          "Support Score": 140
+        },
+        {
+          "Name": "numbfeeling",
+          "Score": 2425,
+          "Objective Score": 1480,
+          "Offense Score": 630,
+          "Support Score": 315
+        }
+      ]
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "177 : 201",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 1890,
+          "Objective Score": 12,
+          "Offense Score": 13960,
+          "Support Score": 98
+        }
+      ],
+      "Villains": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "200 : 201",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 2540,
+          "Objective Score": 13,
+          "Offense Score": 24,
+          "Support Score": 17670
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "142 : 201",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 2000,
+          "Objective Score": 13845,
+          "Offense Score": 77,
+          "Support Score": 75
+        }
+      ],
+      "Villains": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "invisible_fear",
+          "Score": 1780,
+          "Objective Score": 1150,
+          "Offense Score": 8735,
+          "Support Score": 69
+        }
+      ],
+      "Villains": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "176 : 201",
+    "teams": {
+      "Friends": [],
+      "Oblective": [],
+      "Combat": [],
+      "Villains": [],
+      "Revives": [],
+      "Assists": [
+        {
+          "Name": "KingLuffy91",
+          "Score": 10,
+          "Objective Score": 7577,
+          "Offense Score": 223,
+          "Support Score": 13075
+        }
+      ],
+      "Deaths": [],
+      "Challenges": [
+        {
+          "Name": "umgone",
+          "Score": 1600,
+          "Objective Score": 16,
+          "Offense Score": 350,
+          "Support Score": 9540
+        }
+      ],
+      "Heroes": [],
+      "Continue": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "invisible_fear",
+          "Score": 2650,
+          "Objective Score": 1320,
+          "Offense Score": 15,
+          "Support Score": 18
+        }
+      ],
+      "Villains": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "umgone",
+          "Score": 1420,
+          "Objective Score": 12,
+          "Offense Score": 12940,
+          "Support Score": 83
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [],
+      "Villains": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "173 : 201",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "KingLuffy91",
+          "Score": 2730,
+          "Objective Score": 14,
+          "Offense Score": 12,
+          "Support Score": 12685
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2440,
+          "Objective Score": 15,
+          "Offense Score": 23,
+          "Support Score": 12210
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "141 : 201",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 2800,
+          "Objective Score": 13,
+          "Offense Score": 13400,
+          "Support Score": 86
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "200 : 201",
+    "teams": {
+      "Villains": [
+        {
+          "Name": "umgone",
+          "Score": 2565,
+          "Objective Score": 1640,
+          "Offense Score": 570,
+          "Support Score": 355
+        },
+        {
+          "Name": "Bibornoshomoy_",
+          "Score": 2520,
+          "Objective Score": 1820,
+          "Offense Score": 300,
+          "Support Score": 400
+        },
+        {
+          "Name": "alamm",
+          "Score": 2280,
+          "Objective Score": 1360,
+          "Offense Score": 540,
+          "Support Score": 380
+        },
+        {
+          "Name": "invisible_fear",
+          "Score": 2130,
+          "Objective Score": 1620,
+          "Offense Score": 300,
+          "Support Score": 210
+        }
+      ],
+      "Heroes": [
+        {
+          "Name": "numbfeeling",
+          "Score": 3140,
+          "Objective Score": 2290,
+          "Offense Score": 600,
+          "Support Score": 250
+        },
+        {
+          "Name": "Old_Man_Sakil",
+          "Score": 2985,
+          "Objective Score": 1970,
+          "Offense Score": 390,
+          "Support Score": 625
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 1790,
+          "Objective Score": 1540,
+          "Offense Score": 180,
+          "Support Score": 70
+        }
+      ]
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "umgone",
+          "Score": 2430,
+          "Objective Score": 15,
+          "Offense Score": 26,
+          "Support Score": 11935
+        }
+      ],
+      "Villains": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "numbfeeling",
+          "Score": 2330,
+          "Objective Score": 16,
+          "Offense Score": 15,
+          "Support Score": 8940
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "200 : 201",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "numbfeeling",
+          "Score": 2175,
+          "Objective Score": 18,
+          "Offense Score": 20,
+          "Support Score": 10135
+        }
+      ],
+      "Villains": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [],
+      "Villains": [],
+      "DuttoBoy": [
+        {
+          "Name": "umgone",
+          "Score": 1345,
+          "Objective Score": 15,
+          "Offense Score": 8610,
+          "Support Score": 47
+        }
+      ]
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 1990,
+          "Objective Score": 13,
+          "Offense Score": 12580,
+          "Support Score": 58
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "invisible_fear",
+          "Score": 2050,
+          "Objective Score": 19,
+          "Offense Score": 1520,
+          "Support Score": 14
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 3040,
+          "Objective Score": 15,
+          "Offense Score": 16,
+          "Support Score": 10045
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "umgone",
+          "Score": 1425,
+          "Objective Score": 9300,
+          "Offense Score": 50,
+          "Support Score": 75
+        }
+      ],
+      "Villains": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "129 : 201",
+    "teams": {
+      "Friends": [],
+      "Oblective": [],
+      "Combat": [],
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2600,
+          "Objective Score": 14,
+          "Offense Score": 16,
+          "Support Score": 7577
+        }
+      ],
+      "Deaths": [
+        {
+          "Name": "Challenges",
+          "Score": 350,
+          "Objective Score": 8380,
+          "Offense Score": 55,
+          "Support Score": 448
+        }
+      ],
+      "Villains": [],
+      "Continue": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "104 : 201",
+    "teams": {
+      "Options": [],
+      "Oblective": [],
+      "Combat": [],
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "Challenges",
+          "Score": 620,
+          "Objective Score": 13,
+          "Offense Score": 350,
+          "Support Score": 6635
+        },
+        {
+          "Name": 42,
+          "Score": 34,
+          "Objective Score": 34,
+          "Offense Score": 64,
+          "Support Score": 448
+        }
+      ],
+      "Heroes": [],
+      "DuttoBoy": [
+        {
+          "Name": "umgone",
+          "Score": 1780,
+          "Objective Score": 7577,
+          "Offense Score": 223,
+          "Support Score": 11745
+        }
+      ],
+      "Continue": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 920,
+          "Objective Score": 15,
+          "Offense Score": 8375,
+          "Support Score": 38
+        }
+      ],
+      "Villains": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "167 : 201",
+    "teams": {
+      "Friends": [],
+      "Oblective": [],
+      "Combat": [],
+      "Villains": [],
+      "Revives": [],
+      "Assists": [
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2020,
+          "Objective Score": 10,
+          "Offense Score": 7577,
+          "Support Score": 223
+        }
+      ],
+      "Deaths": [
+        {
+          "Name": "Challenges",
+          "Score": 350,
+          "Objective Score": 8605,
+          "Offense Score": 53,
+          "Support Score": 448
+        }
+      ],
+      "Heroes": [],
+      "Continue": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "170 : 201",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "KingLuffy91",
+          "Score": 2050,
+          "Objective Score": 13,
+          "Offense Score": 10300,
+          "Support Score": 45
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "187 : 201",
+    "teams": {
+      "Villains": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 2750,
+          "Objective Score": 13,
+          "Offense Score": 19,
+          "Support Score": 26
+        }
+      ],
+      "Heroes": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Friends": [],
+      "Oblective": [],
+      "Combat": [],
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [
+        {
+          "Name": "numbfeeling",
+          "Score": 2610,
+          "Objective Score": 20,
+          "Offense Score": 2110,
+          "Support Score": 22
+        },
+        {
+          "Name": 7577,
+          "Score": 223,
+          "Objective Score": 13250,
+          "Offense Score": 87,
+          "Support Score": 88
+        }
+      ],
+      "Deaths": [
+        {
+          "Name": "DuttoBoy",
+          "Score": 3970,
+          "Objective Score": 26,
+          "Offense Score": 26,
+          "Support Score": 18
+        }
+      ],
+      "Challenges": [
+        {
+          "Name": "Bibornoshomoy",
+          "Score": 2060,
+          "Objective Score": 1417,
+          "Offense Score": 12,
+          "Support Score": 350
+        }
+      ],
+      "Villains": [],
+      "Continue": []
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Heroes": [],
+      "Revives": [],
+      "Assists": [],
+      "Deaths": [
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 1280,
+          "Objective Score": 14,
+          "Offense Score": 10835,
+          "Support Score": 59
+        }
+      ],
+      "Villains": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "136 : 201",
+    "teams": {
+      "Villains": [
+        {
+          "Name": "invisible_fear",
+          "Score": 2320,
+          "Objective Score": 1550,
+          "Offense Score": 420,
+          "Support Score": 350
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 1930,
+          "Objective Score": 1320,
+          "Offense Score": 540,
+          "Support Score": 70
+        },
+        {
+          "Name": "numbfeeling",
+          "Score": 1715,
+          "Objective Score": 840,
+          "Offense Score": 660,
+          "Support Score": 215
+        },
+        {
+          "Name": "Bibornoshomoy",
+          "Score": 1410,
+          "Objective Score": 800,
+          "Offense Score": 240,
+          "Support Score": 370
+        }
+      ],
+      "Heroes": [
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2680,
+          "Objective Score": 1830,
+          "Offense Score": 390,
+          "Support Score": 460
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 2400,
+          "Objective Score": 1970,
+          "Offense Score": 270,
+          "Support Score": 160
+        },
+        {
+          "Name": "umgone",
+          "Score": 2180,
+          "Objective Score": 1590,
+          "Offense Score": 300,
+          "Support Score": 290
+        }
+      ]
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "72 : 201",
+    "teams": {
+      "Heroes": [
+        {
+          "Name": "DuttoBoy",
+          "Score": 2120,
+          "Objective Score": 1150,
+          "Offense Score": 480,
+          "Support Score": 490
+        }
+      ],
+      "uibuk": [
+        {
+          "Name": "alamm",
+          "Score": 1960,
+          "Objective Score": 1200,
+          "Offense Score": 450,
+          "Support Score": 310
+        },
+        {
+          "Name": "Bibornoshomov",
+          "Score": 1890,
+          "Objective Score": 1550,
+          "Offense Score": 210,
+          "Support Score": 130
+        },
+        {
+          "Name": "umgone",
+          "Score": 1090,
+          "Objective Score": 750,
+          "Offense Score": 180,
+          "Support Score": 160
+        }
+      ],
+      "Villains": [
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 2350,
+          "Objective Score": 1700,
+          "Offense Score": 420,
+          "Support Score": 230
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 2320,
+          "Objective Score": 1560,
+          "Offense Score": 570,
+          "Support Score": 190
+        },
+        {
+          "Name": "numbfeeling",
+          "Score": 2025,
+          "Objective Score": 1440,
+          "Offense Score": 360,
+          "Support Score": 225
+        }
+      ]
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "138 : 201",
+    "teams": {
+      "Heroes": [
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2470,
+          "Objective Score": 1260,
+          "Offense Score": 810,
+          "Support Score": 400
+        },
+        {
+          "Name": "Bibornoshomoy_",
+          "Score": 2390,
+          "Objective Score": 1220,
+          "Offense Score": 810,
+          "Support Score": 360
+        },
+        {
+          "Name": "invisible_fear",
+          "Score": 2170,
+          "Objective Score": 1140,
+          "Offense Score": 510,
+          "Support Score": 520
+        },
+        {
+          "Name": "numbfeeling",
+          "Score": 2160,
+          "Objective Score": 1200,
+          "Offense Score": 660,
+          "Support Score": 300
+        }
+      ],
+      "Villains": [
+        {
+          "Name": "DuttoBoy",
+          "Score": 4730,
+          "Objective Score": 2430,
+          "Offense Score": 1500,
+          "Support Score": 800
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 3100,
+          "Objective Score": 1810,
+          "Offense Score": 1110,
+          "Support Score": 180
+        },
+        {
+          "Name": "umgone",
+          "Score": 2960,
+          "Objective Score": 1840,
+          "Offense Score": 720,
+          "Support Score": 400
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 2430,
+          "Objective Score": 1380,
+          "Offense Score": 900,
+          "Support Score": 150
+        }
+      ]
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "143 : 201",
+    "teams": {
+      "Villains": [
+        {
+          "Name": "umgone",
+          "Score": 2395,
+          "Objective Score": 1530,
+          "Offense Score": 510,
+          "Support Score": 355
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 1910,
+          "Objective Score": 1140,
+          "Offense Score": 420,
+          "Support Score": 350
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 1650,
+          "Objective Score": 1150,
+          "Offense Score": 390,
+          "Support Score": 110
+        },
+        {
+          "Name": "Bibornoshomoy",
+          "Score": 1630,
+          "Objective Score": 740,
+          "Offense Score": 680,
+          "Support Score": 9305
+        }
+      ],
+      "Heroes": [
+        {
+          "Name": "numbfeeling",
+          "Score": 3565,
+          "Objective Score": 2360,
+          "Offense Score": 840,
+          "Support Score": 365
+        },
+        {
+          "Name": "DuttoBoy",
+          "Score": 3520,
+          "Objective Score": 1560,
+          "Offense Score": 1230,
+          "Support Score": 730
+        },
+        {
+          "Name": "Old_Man_Sakil",
+          "Score": 3155,
+          "Objective Score": 2030,
+          "Offense Score": 570,
+          "Support Score": 555
+        },
+        {
+          "Name": "invisible_fear",
+          "Score": 2600,
+          "Objective Score": 1510,
+          "Offense Score": 630,
+          "Support Score": 460
+        }
+      ]
+    }
+  },
+  {
+    "result": "Unknown",
+    "score": "?",
+    "teams": {
+      "Heroes": [
+        {
+          "Name": "numbfeeling",
+          "Score": 3430,
+          "Objective Score": 2530,
+          "Offense Score": 600,
+          "Support Score": 300
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 2960,
+          "Objective Score": 2180,
+          "Offense Score": 660,
+          "Support Score": 120
+        },
+        {
+          "Name": "Bibornoshomov",
+          "Score": 2715,
+          "Objective Score": 1920,
+          "Offense Score": 300,
+          "Support Score": 495
+        },
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 1320,
+          "Objective Score": 1060,
+          "Offense Score": 150,
+          "Support Score": 110
+        }
+      ],
+      "Villains": [
+        {
+          "Name": "Old_Man_Sakil",
+          "Score": 2675,
+          "Objective Score": 1450,
+          "Offense Score": 450,
+          "Support Score": 775
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 2210,
+          "Objective Score": 1590,
+          "Offense Score": 480,
+          "Support Score": 140
+        },
+        {
+          "Name": "umgone",
+          "Score": 1830,
+          "Objective Score": 1080,
+          "Offense Score": 480,
+          "Support Score": 270
+        },
+        {
+          "Name": "invisible_fear",
+          "Score": 1740,
+          "Objective Score": 1040,
+          "Offense Score": 570,
+          "Support Score": 130
+        }
+      ]
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "105 : 201",
+    "teams": {
+      "Villains": [
+        {
+          "Name": "invisible_fear",
+          "Score": 2120,
+          "Objective Score": 1280,
+          "Offense Score": 270,
+          "Support Score": 570
+        },
+        {
+          "Name": "Old_Man_Sakil",
+          "Score": 1950,
+          "Objective Score": 720,
+          "Offense Score": 600,
+          "Support Score": 630
+        },
+        {
+          "Name": "Bibornoshomov",
+          "Score": 1685,
+          "Objective Score": 970,
+          "Offense Score": 300,
+          "Support Score": 415
+        },
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 1590,
+          "Objective Score": 860,
+          "Offense Score": 570,
+          "Support Score": 160
+        },
+        {
+          "Name": 1310,
+          "Score": 780,
+          "Objective Score": 300,
+          "Offense Score": 230,
+          "Support Score": 8655
+        }
+      ],
+      "Heroes": [
+        {
+          "Name": "DuttoBoy",
+          "Score": 3905,
+          "Objective Score": 2360,
+          "Offense Score": 870,
+          "Support Score": 675
+        },
+        {
+          "Name": "numbfeeling",
+          "Score": 3300,
+          "Objective Score": 1800,
+          "Offense Score": 1200,
+          "Support Score": 300
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 3180,
+          "Objective Score": 2250,
+          "Offense Score": 750,
+          "Support Score": 180
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 2410,
+          "Objective Score": 1780,
+          "Offense Score": 540,
+          "Support Score": 90
+        },
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2220,
+          "Objective Score": 1430,
+          "Offense Score": 360,
+          "Support Score": 430
+        }
+      ]
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "195 : 200",
+    "teams": {
+      "Oblective": [],
+      "Combat": [],
+      "Villains": [],
+      "Revives": [],
+      "Assists": [
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 2320,
+          "Objective Score": 16,
+          "Offense Score": 7577,
+          "Support Score": 223
+        }
+      ],
+      "Challenges": [
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 13,
+          "Objective Score": 350,
+          "Offense Score": 11980,
+          "Support Score": 85
+        }
+      ],
+      "Heroes": [],
+      "Continue": []
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "157 : 201",
+    "teams": {
+      "Heroes": [
+        {
+          "Name": "DuttoBoy",
+          "Score": 3825,
+          "Objective Score": 1700,
+          "Offense Score": 990,
+          "Support Score": 1135
+        },
+        {
+          "Name": "Bibornoshomoy",
+          "Score": 2285,
+          "Objective Score": 1250,
+          "Offense Score": 450,
+          "Support Score": 585
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 2140,
+          "Objective Score": 1160,
+          "Offense Score": 690,
+          "Support Score": 290
+        },
+        {
+          "Name": "Bengal_Bandit",
+          "Score": 1860,
+          "Objective Score": 1090,
+          "Offense Score": 450,
+          "Support Score": 320
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 810,
+          "Objective Score": 350,
+          "Offense Score": 390,
+          "Support Score": 10920
+        }
+      ],
+      "Villains": [
+        {
+          "Name": "numbfeeling",
+          "Score": 3355,
+          "Objective Score": 2130,
+          "Offense Score": 810,
+          "Support Score": 415
+        },
+        {
+          "Name": "Old_Man_Sakil",
+          "Score": 3175,
+          "Objective Score": 1340,
+          "Offense Score": 1050,
+          "Support Score": 785
+        },
+        {
+          "Name": "invisible_fear",
+          "Score": 3140,
+          "Objective Score": 1640,
+          "Offense Score": 870,
+          "Support Score": 630
+        },
+        {
+          "Name": "umgone",
+          "Score": 2670,
+          "Objective Score": 1660,
+          "Offense Score": 780,
+          "Support Score": 230
+        },
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2350,
+          "Objective Score": 1460,
+          "Offense Score": 660,
+          "Support Score": 230
+        }
+      ]
+    }
+  },
+  {
+    "result": "You Lost",
+    "score": "138 : 201",
+    "teams": {
+      "Heroes": [
+        {
+          "Name": "ujbuk_alamm",
+          "Score": 2470,
+          "Objective Score": 1260,
+          "Offense Score": 810,
+          "Support Score": 400
+        },
+        {
+          "Name": "Bibornoshomoy_",
+          "Score": 2390,
+          "Objective Score": 1220,
+          "Offense Score": 810,
+          "Support Score": 360
+        },
+        {
+          "Name": "invisible_fear",
+          "Score": 2170,
+          "Objective Score": 1140,
+          "Offense Score": 510,
+          "Support Score": 520
+        },
+        {
+          "Name": "numbfeeling",
+          "Score": 2160,
+          "Objective Score": 1200,
+          "Offense Score": 660,
+          "Support Score": 300
+        }
+      ],
+      "Villains": [
+        {
+          "Name": "DuttoBoy",
+          "Score": 4730,
+          "Objective Score": 2430,
+          "Offense Score": 1500,
+          "Support Score": 800
+        },
+        {
+          "Name": "SCUBESEVEN",
+          "Score": 3100,
+          "Objective Score": 1810,
+          "Offense Score": 1110,
+          "Support Score": 180
+        },
+        {
+          "Name": "umgone",
+          "Score": 2960,
+          "Objective Score": 1840,
+          "Offense Score": 720,
+          "Support Score": 400
+        },
+        {
+          "Name": "KingLuffy91",
+          "Score": 2430,
+          "Objective Score": 1380,
+          "Offense Score": 900,
+          "Support Score": 150
+        }
+      ]
+    }
+  }
+]

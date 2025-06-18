@@ -1,0 +1,10 @@
+Heroes_Team,Villains_Team,Heroes_Scores,Villains_Scores,Heroes_Hill_Score,Villains_Hill_Score,Winning_Team
+"['DuttoBoy', 'KingLuffy91', 'Bibornoshomoy', 'umgone', 'numbfeeling']","['invisible_fear', 'ujbuk_alamm', 'SCUBESEVEN', 'Old_Man_Sakil', 'Bengal_Bandit']","[2815, 2710, 2610, 2550, 1980]","[2810, 1830, 1630, 1185, 920]",201,162,Heroes
+"['DuttoBoy', 'Bibornoshomoy', 'umgone', 'ujbuk_alamm', 'KingLuffy91']","['invisible_fear', 'Old_Man_Sakil', 'numbfeeling', 'SCUBESEVEN', 'Bengal_Bandit']","[2890, 2280, 2240, 1990, 1870]","[2710, 2530, 2245, 2070, 1280]",201,184,Heroes
+"['Old_Man_Sakil', 'invisible_fear', 'DuttoBoy', 'Bibornoshomoy', 'SCUBESEVEN']","['KingLuffy91', 'ujbuk_alamm', 'numbfeeling', 'Bengal_Bandit', 'umgone']","[3405, 3220, 2860, 2860, 2540]","[2730, 1880, 1795, 1470, 1425]",201,142,Heroes
+"['DuttoBoy', 'invisible_fear', 'Old_Man_Sakil', 'KingLuffy91', 'Bengal_Bandit']","['Bibornoshomoy', 'numbfeeling', 'umgone', 'ujbuk_alamm', 'SCUBESEVEN']","[4760, 3900, 3640, 3140, 2750]","[2605, 2585, 2565, 2410, 2040]",201,187,Heroes
+"['DuttoBoy', 'invisible_fear', 'numbfeeling', 'SCUBESEVEN', 'umgone']","['KingLuffy91', 'Old_Man_Sakil', 'Bibornoshomoy', 'ujbuk_alamm', 'Bengal_Bandit']","[2845, 2420, 2370, 2330, 1780]","[1670, 1545, 1540, 1260, 620]",201,104,Heroes
+"['DuttoBoy', 'umgone', 'ujbuk_alamm', 'KingLuffy91', 'Bibornoshomoy']","['invisible_fear', 'SCUBESEVEN', 'Old_Man_Sakil', 'numbfeeling', 'Bengal_Bandit']","[3970, 2845, 2820, 2650, 2060]","[2900, 2870, 2760, 2610, 2110]",201,200,Heroes
+"['numbfeeling', 'KingLuffy91', 'invisible_fear', 'ujbuk_alamm']","['DuttoBoy', 'SCUBESEVEN', 'umgone', 'Bibornoshomoy']","[3340, 2450, 2300, 2020]","[3350, 1870, 1715, 1670]",201,167,Heroes
+"['numbfeeling', 'invisible_fear', 'ujbuk_alamm', 'KingLuffy91']","['DuttoBoy', 'SCUBESEVEN', 'Bibornoshomoy', 'umgone']","[3460, 2470, 2320, 2050]","[2795, 2210, 2170, 2165]",201,170,Heroes
+"['SCUBESEVEN', 'invisible_fear', 'Bibornoshomoy', 'KingLuffy91']","['DuttoBoy', 'numbfeeling', 'umgone', 'ujbuk_alamm']","[2450, 2190, 2000, 1740]","[3870, 3085, 2885, 2600]",129,201,Villains
